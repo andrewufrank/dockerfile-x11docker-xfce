@@ -1,4 +1,9 @@
 # x11docker/xfce  -- from m viereck
+
+# buildx with 
+# docker buildx build -t andrewufrank/x11docker-xfce:v1 --platform linux/arm/v7,linux/arm64,linux/amd64  --push .
+
+
 # 
 # Run XFCE desktop in docker. 
 # Use x11docker to run image. 
