@@ -1,4 +1,4 @@
-# x11docker/xfce
+# x11docker/xfce  -- from m viereck
 # 
 # Run XFCE desktop in docker. 
 # Use x11docker to run image. 
